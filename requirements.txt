@@ -1,0 +1,6 @@
+cloudant
+numpy
+flask
+cfenv
+requests
+urllib2
